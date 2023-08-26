@@ -4,12 +4,12 @@
   "author": "klpod221",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klpod221/klpod221.github.io.git"
+    "url": "git+https://github.com/klpod221/portfolio-v1.git"
   },
   "bugs": {
-    "url": "https://github.com/klpod221/klpod221.github.io/issues"
+    "url": "https://github.com/klpod221/portfolio-v1/issues"
   },
-  "homepage": "https://klpod221.github.io/klpod221.github.io/",
+  "homepage": "https://klpod221.github.io/portfolio-v1/",
   "license": "MIT",
   "keywords": [
     "klpod221",
